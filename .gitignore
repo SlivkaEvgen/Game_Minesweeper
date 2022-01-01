@@ -7,7 +7,7 @@
 #.repository/
 #*.iml
 #*.iws
-#*.jrtc
+*.jrtc
 #*.java
 #*.class
 #*.info
